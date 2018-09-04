@@ -11,7 +11,7 @@ public static void main (String[] args){
 
 	// Erste Methode, addieren zweier geraden Zahlen
 
-public static Int (int x, int y){
+public static Int addieren (int x, int y){
 
 	int z = x + y;
 
